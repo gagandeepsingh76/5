@@ -47,3 +47,9 @@ A comprehensive **virtual laboratory platform** for **PSIT (Pranveer Singh Insti
 ---
 
 ## 🛠️ Technology
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- Interactive Simulations
+- Responsive Design
+
