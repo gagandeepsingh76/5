@@ -1,74 +1,49 @@
-PSIT Virtual Labs 🎓
-A comprehensive virtual laboratory platform for PSIT (Pranveer Singh Institute of Technology) students, providing interactive simulations and learning materials for various computer science and engineering subjects.
+# PSIT Virtual Labs 🎓
 
-🌐 Live Demo
-Visit the live platform: PSIT Virtual Labs
+A comprehensive **virtual laboratory platform** for **PSIT (Pranveer Singh Institute of Technology)** students, providing **interactive simulations** and **learning materials** for various computer science and engineering subjects.
 
-🌟 Features
-Interactive Simulations: Hands-on virtual experiments for better understanding
+---
 
-Multiple Subjects: Coverage of various technical subjects including:
+## 🌟 Features
+- **Interactive Simulations** – Hands-on experiments for better understanding.
+- **Multiple Subjects** – Coverage includes:
+  - Data Structures & Algorithms
+  - Basic Electrical Engineering
+  - Computer Architecture
+  - Digital Electronics
+  - Artificial Intelligence & Machine Learning
+  - And more...
+- **Structured Learning Path**:
+  1. 📖 Theory  
+  2. 📝 Pre-test  
+  3. 🖥️ Simulation  
+  4. 📊 Post-test  
+  5. 💬 Feedback  
 
-Data Structures & Algorithms
-Basic Electrical Engineering
-Computer Architecture
-Digital Electronics
-Artificial Intelligence & Machine Learning
-And more...
-Structured Learning Path:
+---
 
-Theory
-Pre-test
-Simulation
-Post-test
-Feedback
-📚 Available Experiments
-Data Structures
-Sorting Algorithms (Bubble, Quick, Merge, Heap, etc.)
-Searching Techniques (Linear, Binary)
-Graph Algorithms (BFS, DFS, Dijkstra's, Floyd-Warshall)
-Stack & Queue Implementations
-Tree Operations
-Tower of Hanoi
-Basic Electrical Engineering
-Circuit Analysis
-Power Systems
-Electrical Machines
-Transformers
-And more...
-Other Subjects
-Computer Architecture
-Digital Electronics
-AI/ML Concepts
-🛠️ Technology Stack
-HTML5
-CSS3
-JavaScript
-Interactive Simulations
-Responsive Design
-🚀 Getting Started
-Clone the repository:
+## 📚 Available Experiments
 
-git clone https://github.com/Akshat394/PSIT-VIRTUAL-LABS.git
-Open index.html in your web browser to start exploring the virtual labs.
+### Data Structures
+- Sorting Algorithms: Bubble, Quick, Merge, Heap, etc.
+- Searching Techniques: Linear, Binary
+- Graph Algorithms: BFS, DFS, Dijkstra's, Floyd-Warshall
+- Stack & Queue Implementations
+- Tree Operations
+- Tower of Hanoi
 
-📱 Responsive Design
-The platform is fully responsive and works seamlessly on:
+### Basic Electrical Engineering
+- Circuit Analysis
+- Power Systems
+- Electrical Machines
+- Transformers
+- And more...
 
-Desktop Computers
-Tablets
-Mobile Devices
-🎯 Learning Features
-Interactive Simulations: Real-time experiment simulations
-Step-by-step Procedures: Detailed experiment procedures
-Theory & Concepts: Comprehensive theoretical background
-Assessment: Pre and post-test evaluations
-Feedback System: User feedback mechanism
-🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+### Other Subjects
+- Computer Architecture
+- Digital Electronics
+- AI/ML Concepts
 
-🙏 Acknowledgments
-PSIT Faculty and Staff
-All contributors who have helped in developing this platform
-Open source community for various tools and libraries used
-Made with ❤️ for PSIT Students
+---
+
+## 🛠️ Technology
