@@ -67,11 +67,6 @@ Feedback System: User feedback mechanism
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-👥 Authors
-Akshat - Initial work - Akshat394
 🙏 Acknowledgments
 PSIT Faculty and Staff
 All contributors who have helped in developing this platform
