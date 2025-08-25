@@ -1,5 +1,5 @@
 # PSIT Virtual Labs 🎓
-# 🌐 **Host Link:** [psit-virtual-lab.vercel.app](https://psit-virtual-lab.vercel.app/)
+# 🌐 **Host Link:** [psit-virtual-lab](https://psit-virtual-lab.vercel.app/)
 A comprehensive **virtual laboratory platform** for **PSIT (Pranveer Singh Institute of Technology)** students, providing **interactive simulations** and **learning materials** for various computer science and engineering subjects.
 
 ---
